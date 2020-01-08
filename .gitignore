@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/node-apollo/node_modules
 /.pnp
 .pnp.js
 
